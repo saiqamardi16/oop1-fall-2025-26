@@ -29,7 +29,7 @@ public class mortgagecalculator {
         input.close();
 
     }
-
+    
     }
     
 
