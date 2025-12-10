@@ -22,6 +22,3 @@ package lab;
         this.text = "";
     }
 }
- 
-    
-}
