@@ -1,6 +1,6 @@
 package lab;
 
-// -------------------- CITY --------------------
+//CITY
 class City {
     private String name;
 
@@ -13,7 +13,7 @@ class City {
     }
 }
 
-// -------------------- STATE --------------------
+// STATE 
 class State {
     private String stateName;
     private City[] cities;
@@ -42,7 +42,7 @@ class State {
     }
 }
 
-// -------------------- ADDRESS --------------------
+//  ADDRESS 
 class Address {
     private String road;
     private String city;
