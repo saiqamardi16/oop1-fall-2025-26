@@ -2,13 +2,13 @@ package lab;
 
 public class Mainclass {
     public static void main(String[] args) {
-        Variable obj = new ClassObject();
+        ClassObject obj = new ClassObject();
         obj.setText("Hello, World!");
         System.out.println("Text after setting: " + obj.getText().toUpperCase());
         obj.clearText();
         System.out.println("Text after clearing: " + obj.getText());
 
-        Variable anotherObj = new ClassObject();
+        ClassObject anotherObj = new ClassObject();
         anotherObj.setText("Java Programming");
         System.out.println("Another object's text: " + anotherObj.getText().toLowerCase());
 
