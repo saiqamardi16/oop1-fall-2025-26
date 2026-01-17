@@ -1,4 +1,5 @@
-package lab;
+package lab.Class;
+
 
 public class Animal {
 
@@ -12,6 +13,3 @@ class Dog extends Animal {
         System.out.println("Dog barks");
     }
 }
-
-    
-

@@ -1,4 +1,4 @@
-package lab;
+package lab.ComparismOperator;
 
 public class Comparismoperator {
     public static void main(String[] args) {
@@ -25,4 +25,5 @@ public class Comparismoperator {
     }
 } 
     
+
 

@@ -1,6 +1,7 @@
-package lab;
- import java.util.Scanner;
-public class FeulLog {
+package lab.Scanner;
+
+import java.util.Scanner;
+public class Fuellog {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -31,6 +32,3 @@ public class FeulLog {
         sc.close();
     }
 }
-
-    
-

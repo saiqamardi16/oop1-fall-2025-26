@@ -1,4 +1,4 @@
-package lab;
+package lab.Loop;
 
 public class Dowhileloop {
     public static void main(String[] args) {
@@ -10,4 +10,3 @@ public class Dowhileloop {
         } while (i <= 10);
     }
 }
-

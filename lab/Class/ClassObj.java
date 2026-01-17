@@ -1,10 +1,11 @@
-package lab;
+package lab.Class;
 
+import lab.UIControl;
 
-    public class ClassObject extends UIControl {
+ public class ClassObj extends UIControl {
     public String text; // Field
 
-    public ClassObject() {
+    public ClassObj() {
         super(true);
         System.out.println("ClassObject"); // Constructors
     }
@@ -22,3 +23,6 @@ package lab;
         this.text = "";
     }
 }
+
+    
+

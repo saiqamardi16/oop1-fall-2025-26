@@ -1,4 +1,4 @@
-package lab;
+package lab.Class;
 
 public class Fizzbuzz {
     public static void main(String[] args) {
@@ -15,5 +15,3 @@ public class Fizzbuzz {
         }
     }
 } 
-    
-

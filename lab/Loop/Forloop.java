@@ -1,4 +1,4 @@
-package lab;
+package lab.Loop;
 
 public class Forloop {
     public static void main(String[] args) {
@@ -12,6 +12,4 @@ public class Forloop {
             System.out.println(i);
         }
     }
-}    
-    
-
+}  

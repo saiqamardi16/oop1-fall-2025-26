@@ -1,4 +1,4 @@
-package lab;
+package lab.Loop;
 
 public class Foreachloop {
     public static void main(String[] args) {
@@ -19,4 +19,3 @@ public class Foreachloop {
         }
     }
 } 
-    

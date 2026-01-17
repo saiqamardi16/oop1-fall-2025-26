@@ -1,6 +1,6 @@
-package lab;
+package lab.Class;
 
-public class Classobj {
+public class Classobject {
     public String text; // Field
 
     public void setText(String text) { // Method
@@ -12,5 +12,6 @@ public class Classobj {
     }
 }
  
+    
     
 

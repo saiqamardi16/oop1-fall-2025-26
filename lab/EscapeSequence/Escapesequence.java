@@ -1,4 +1,4 @@
-package lab;
+package lab.EscapeSequence;
 
 public class Escapesequence {
     
@@ -20,8 +20,3 @@ public class Escapesequence {
         System.out.println("She replied, C:\\Windows\\Documents");
     }
 }
- 
-    
-
-    
-

@@ -1,4 +1,5 @@
-package lab;
+package lab.Array;
+
 import java.util.Arrays;
 public class Arraydemos {
     public static void main(String[] args) {
@@ -20,4 +21,3 @@ public class Arraydemos {
     }
 }
  
-    

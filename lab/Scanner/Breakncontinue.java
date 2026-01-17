@@ -1,6 +1,7 @@
-package lab;
+package lab.Scanner;
+
 import java.util.Scanner;
-public class Breakandcontinue {
+public class Breakncontinue {
     public static void main(String[] args) {
         // Demonstrate break and continue in a loop
         Scanner scanner = new Scanner(System.in);
@@ -22,5 +23,3 @@ public class Breakandcontinue {
         scanner.close();
     }
 } 
-    
-

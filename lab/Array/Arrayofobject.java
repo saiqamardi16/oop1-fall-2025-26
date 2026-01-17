@@ -1,10 +1,11 @@
-package lab;
+package lab.Array;
 
-public class Arrayofobj {
+
+public class Arrayofobject {
     String name;
     int age;
 
-    public Arrayofobj(String name, int age) {
+    public Arrayofobject(String name, int age) {
         this.name = name;
         this.age = age;
     }
@@ -13,6 +14,3 @@ public class Arrayofobj {
         System.out.println("Name: " + name + ", Age: " + age);
     }
 }
- 
-    
-
