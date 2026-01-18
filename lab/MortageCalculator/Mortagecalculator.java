@@ -1,8 +1,9 @@
-package lab;
+package lab.MortageCalculator;
+
 
 import java.util.Scanner;
 
-public class mortgagecalculator {
+public class Mortagecalculator {
     public static void main(String[]args){
         System.out.println("Mortage Calculator: ");
 
@@ -31,5 +32,3 @@ public class mortgagecalculator {
     }
     
     }
-    
-

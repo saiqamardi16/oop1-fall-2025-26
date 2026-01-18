@@ -1,4 +1,5 @@
-package lab;
+package lab.MortageCalculator;
+
 
 import java.text.NumberFormat;
 import java.util.Locale;

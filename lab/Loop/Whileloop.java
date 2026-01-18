@@ -1,4 +1,5 @@
-package lab;
+package lab.Loop;
+
 import java.util.Scanner;
 public class Whileloop {
     public static void main(String[] args) {
@@ -20,5 +21,3 @@ public class Whileloop {
         scanner.close();
     }
 } 
-    
-

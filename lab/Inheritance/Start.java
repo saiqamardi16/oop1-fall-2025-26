@@ -1,4 +1,4 @@
-package lab;
+package lab.Inheritance;
 
 interface IRentable {
     double calculateRent(int days);
@@ -97,6 +97,3 @@ public class Start {
         System.out.println("Rent: " + c.calculateRent(7));
     }
 }
-
-    
-

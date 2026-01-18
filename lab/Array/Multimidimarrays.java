@@ -1,6 +1,7 @@
-package lab;
+package lab.Array;
+
 import java.util.Arrays;
-public class Multidimarrays {
+public class Multimidimarrays {
     
     public static void main(String[] args) {
         int[][] numbers = new int[3][4];
@@ -18,6 +19,3 @@ public class Multidimarrays {
         System.out.println(Arrays.deepToString(predefined));
     }
 }
- 
- 
-

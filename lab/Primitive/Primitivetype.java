@@ -1,6 +1,6 @@
-package lab;
+package lab.Primitive;
 
-public class primitivetype {
+public class Primitivetype {
     public static void main(String[] args) {
         byte age = 25; // 1 byte
         short year = 2024; // 2 bytes
@@ -22,6 +22,3 @@ public class primitivetype {
     }
 
 }
- 
-    
-

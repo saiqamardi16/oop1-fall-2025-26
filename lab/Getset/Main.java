@@ -1,4 +1,5 @@
-package lab;
+package lab.Getset;
+
 class Contact{
     private String phone;
     private String email;
@@ -88,7 +89,3 @@ public class Main {
         school.showStudents();
     }
 }
-
-
-    
-

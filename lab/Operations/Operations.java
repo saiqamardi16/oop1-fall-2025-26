@@ -1,4 +1,5 @@
-package lab;
+package lab.Operations;
+
 
 public class Operations {
     public static void main(String[] args) {
@@ -46,6 +47,3 @@ public class Operations {
         System.out.println("b after compound assignment (b *= 2): " + b);
     }
 }
- 
-    
-

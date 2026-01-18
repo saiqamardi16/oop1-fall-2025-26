@@ -1,4 +1,4 @@
-package lab;
+package lab.Variable;
 
 public class ExlocVar {
 
@@ -7,6 +7,3 @@ public class ExlocVar {
         System.out.println(age);
     }
 }
-
-    
-

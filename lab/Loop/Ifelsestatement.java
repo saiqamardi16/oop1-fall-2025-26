@@ -1,4 +1,4 @@
-package lab;
+package lab.Loop;
 
 public class Ifelsestatement {
     public static void main(String[] args) {
@@ -22,6 +22,3 @@ public class Ifelsestatement {
     }
 }
     
-
-    
-

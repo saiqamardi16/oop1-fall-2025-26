@@ -1,4 +1,4 @@
-package lab;
+package lab.String;
 
 public class Strings {
     
@@ -51,5 +51,3 @@ public class Strings {
     }
 }
  
-    
-

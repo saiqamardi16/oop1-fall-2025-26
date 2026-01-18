@@ -1,4 +1,5 @@
-package lab;
+package lab.Formatednum;
+
 import java.text.NumberFormat;
 public class Formatednum {
      public static void main(String[] args) {
@@ -19,6 +20,3 @@ public class Formatednum {
         System.out.println(methodChaining);
     }
 }
- 
-    
-

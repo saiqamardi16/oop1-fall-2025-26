@@ -1,4 +1,4 @@
-package lab;
+package lab.Typedifference;
 
 
 class Point {
@@ -25,3 +25,4 @@ public class Typedifferences {
     }
 
 }
+

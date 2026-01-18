@@ -1,4 +1,5 @@
-package lab;
+package lab.Scanner;
+
 import java.util.Scanner;
 public class Switchcase {
     public static void main(String[] args) {
@@ -40,4 +41,5 @@ public class Switchcase {
     }
 } 
     
+
 

@@ -1,4 +1,4 @@
-package lab;
+package lab.Logic;
 
 public class Logical {
     public static void main(String[] args) {
@@ -24,4 +24,3 @@ public class Logical {
         System.out.println("Is eligible for loan: " + isEligibleForLoan);
     }
 } 
-    

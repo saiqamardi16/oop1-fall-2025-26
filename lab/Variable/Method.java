@@ -1,4 +1,4 @@
-package lab;
+package lab.Variable;
 
 public class Method {
     
@@ -8,7 +8,7 @@ public class Method {
     }
 
     public static void main(String[] args) {
-        var methods = new Method(); // FIXED: Method, not Methods
+        Method methods = new Method(); // FIXED: Method, not Methods
         int sum = methods.add(5, 10);
         System.out.println("The sum is: " + sum);
     }

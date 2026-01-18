@@ -1,6 +1,6 @@
-package lab;
+package lab.Math;
 
-public class mathclass {
+public class Mathclass {
     public static void main(String[] args) {
         int roundResult = Math.round(1.1f);
         System.out.println(roundResult);
@@ -29,4 +29,5 @@ public class mathclass {
 }
  
     
+
 
