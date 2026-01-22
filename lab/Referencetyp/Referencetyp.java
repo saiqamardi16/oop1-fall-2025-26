@@ -1,7 +1,8 @@
-package lab;
+package lab.Referencetyp;
+
 import java.util.Date;
 
-public class Referencetype {
+public class Referencetyp {
     
     public static void main(String[] args) {
         Date now = new Date();
@@ -9,6 +10,4 @@ public class Referencetype {
     }
 
 }
-
-    
 

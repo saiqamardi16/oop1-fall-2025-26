@@ -1,4 +1,4 @@
-package lab.Variable;
+package lab.Var;
 
 public class ExlocVar {
 

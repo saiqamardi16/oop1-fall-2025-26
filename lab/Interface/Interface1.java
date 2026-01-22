@@ -1,4 +1,4 @@
-package lab;
+package lab.Interface;
 
 // We use interfaces to achieve full abstraction in Java.
 // An interface is a blueprint of a class. It has static constants and abstract methods.
@@ -20,7 +20,7 @@ class Dog implements Animal {
 }
 
 // Main class
-public class Interface{
+public class Interface1{
     public static void main(String[] args) {
         Animal animal = new Dog(); // interface reference
         animal.sound();
