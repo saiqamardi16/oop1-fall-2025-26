@@ -1,4 +1,4 @@
-package lab;
+package lab.Abstraction;
 
 // We use the abstract keyword to create abstract classes and methods.
 // An abstract method doesn't have any implementation (method body).
