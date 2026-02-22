@@ -1,9 +1,11 @@
 package lab;
 
+import javax.lang.model.element.VariableElement;
+
 public class Proceduralprogramming {
     public static void main(String[] args) {
-        var employee1 = new Employee(50000, 20);
-        int totalWage = employee1.calculateWage(10);
+        VariableElement employee1 = (VariableElement) new Employee(50000, 20);
+        int totalWage = ((Employee) employee1).calculateWage(10);
         System.out.println("Total Wage: " + totalWage);
     }
 
