@@ -1,6 +1,6 @@
-package lab.Loop;
+package lab.Loops;
 
-public class Ifelsestatement {
+public class Ifelsestat {
     public static void main(String[] args) {
         int number = -15;
 
@@ -21,4 +21,3 @@ public class Ifelsestatement {
         }
     }
 }
-    

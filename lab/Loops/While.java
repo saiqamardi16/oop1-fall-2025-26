@@ -1,7 +1,7 @@
-package lab.Loop;
+package lab.Loops;
 
 import java.util.Scanner;
-public class Whileloop {
+public class While{
     public static void main(String[] args) {
         // Print numbers from 1 to 10 using a while loop
         int i = 1;
